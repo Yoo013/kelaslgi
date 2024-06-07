@@ -129,7 +129,7 @@ const Navbar2 = () => {
 						</a>
 					</li>
 					<div className="flex ">
-						<Link to="/"><button className="absolute w-20 h-10  border-2 rounded">Sign In</button></Link>
+						<Link to="/signup"><button className="absolute w-20 h-10  border-2 rounded">Sign Up</button></Link>
 					</div>
 					
 				</ul>
